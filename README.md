@@ -10,7 +10,6 @@ Languages: Turkish and English
 <br />
 
 [Discord]: https://discord.gg/Ywruzc9uVB
-[YouTube]: https://discord.gg/Ywruzc9uVB
 
 <br />
 <br />
