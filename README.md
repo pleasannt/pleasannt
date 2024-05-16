@@ -20,7 +20,7 @@
 ### 🔧 Languages and Tools:
 
 <a href="https://github.com/github/explore" class="image-link">
-        <img src="https://hizliresim.com/owjh11a" alt="Visual Studio Code">
+        <img src="https://cdn.discordapp.com/attachments/1218646626529316914/1240534796757762048/vsc.png?ex=6646e98f&is=6645980f&hm=11859994269c13c7363f86ee11100a9d3f206174f85d9b3503851f40b1f9a084&" alt="Visual Studio Code">
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
