@@ -13,7 +13,7 @@
 
 ### 🔧 Languages and Tools:
 <div class="tech-icons">
-        <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" alt="Technologies Icons" style="width: 150px; height: auto;">
+        <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" alt="Technologies Icons" style="width: 300px; height: auto;">
 
 <br />
 
