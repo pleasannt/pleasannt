@@ -9,8 +9,11 @@
 
 [Discord]: https://pleasannt.github.io/web/
 
+<br />
+
 ### 🔧 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<div class="tech-icons">
+        <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" alt="Technologies Icons" style="width: 50px; height: auto;">
 
 <br />
 
